@@ -314,7 +314,7 @@ def hero():
     for i, ln in enumerate(["I build AI products at hackathons, ship them live,",
                             "and produce the TEDx stage at my college."]):
         c.text(44, 318 + i * 23, ln, "sans", 16.5, "#2c2c2a", cls="up", delay=0.5 + i * 0.08)
-    link = "tanmay-portfolio-fsd.vercel.app"
+    link = "tanmay.devs.surf"
     c.text(44, 372, link, "mono", 12, INK, cls="fade", delay=0.8)
     lw = measure(link, "mono", 12)
     c.add(f'<g class="fade" style="animation-delay:.8s">{arrow(44 + lw + 9, 362, BLUE, 8, up=True)}</g>')
