@@ -1,7 +1,7 @@
 {
  "contributionsCollection": {
   "contributionCalendar": {
-   "totalContributions": 268,
+   "totalContributions": 275,
    "weeks": [
     {
      "contributionDays": [
@@ -1671,7 +1671,7 @@
      "contributionDays": [
       {
        "date": "2026-11-15",
-       "contributionCount": 0
+       "contributionCount": 7
       }
      ]
     }
@@ -1863,6 +1863,12 @@
    {
     "name": "TrueTone",
     "homepageUrl": "https://true-tone-lac.vercel.app",
+    "isFork": false,
+    "stargazerCount": 0
+   },
+   {
+    "name": "tanmay-portfolio",
+    "homepageUrl": "https://tanmay.devs.surf/",
     "isFork": false,
     "stargazerCount": 0
    }
